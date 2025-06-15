@@ -1,2 +1,12 @@
 # Coursera_Project__Linear_Regression_with_Python
-This project focuses on implementing Linear Regression using Python and Numpy using a practical approach. The goal is to leverage two independent variables (area and distance from the city center) to predict the price of a house
+
+## Project Overview
+This project focuses on implementing Linear Regression using Python and Numpy using a practical approach. The goal is to leverage two independent variables (area and distance from the city center) to predict the price of a house.
+
+## Business Understanding
+
+## Data Understanding
+
+## Modeling and Evaluation
+
+## Conclusion
